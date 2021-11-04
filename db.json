@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,40 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "Zero",
+      "dogBreed": "Miniature Schnauzer",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Axel",
+      "dogBreed": "schnauzer",
+      "id": 6
+    },
+    {
+      "dogName": "Snoopy",
+      "dogBreed": "Dalmatian",
+      "id": 7
+    },
+    {
+      "dogName": "Snoopy",
+      "dogBreed": "Dalmatian",
+      "id": 8
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +53,30 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": 0,
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "kel",
+      "email": "kel@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "kel",
+      "email": "kel@gmail.com",
+      "id": 4
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
